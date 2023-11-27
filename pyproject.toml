@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=65.5.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pymc"
+version = "0.0.0"
+authors = [
+    {name= "AtoKashinoki", email= "atokashinoki@gmail.com"},
+]
+description = "minecraft data pack edit module programs"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+classifiers = [
+    "Programming Language :: Python :: 3.10",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Microsoft :: Windows :: Windows 11",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/AtoKashinoki/pygameapp"
+"Bug Tracker" = "https://github.com/AtoKashinoki/pygameapp/issues"
